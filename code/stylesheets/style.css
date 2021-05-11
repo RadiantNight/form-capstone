@@ -1,0 +1,49 @@
+:root {
+	font-size: 16px;
+}
+
+body {
+	text-align: center;
+}
+
+form {
+	display: inline-block;
+	width: 25rem;
+}
+
+form div {
+	margin: 0.5rem;
+	/* width: 500px; */
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.rank-wrapper div label {
+	text-align: center;
+}
+
+label {
+	display: flex;
+	align-items: center;
+}
+
+select {
+	display: block;
+}
+
+.agree {
+	justify-content: flex-start;
+}
+
+.red-star {
+	color: red;
+}
+
+input[type="radio"], input[type="checkbox"] {
+	margin-right: 10px;
+}
+
+input {
+	text-transform: uppercase;
+}
