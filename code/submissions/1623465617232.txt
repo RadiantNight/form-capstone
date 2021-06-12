@@ -1,5 +1,0 @@
-firstName: John
-lastName: Grimes
-phoneNumber: 907-297-9262
-rank: E5
-email: grimes.john.j@gmail.com
